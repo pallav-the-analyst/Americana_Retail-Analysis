@@ -18,7 +18,6 @@ Explore the live dashboard [here](https://app.powerbi.com/groups/9f336f9f-c1a7-4
 - **Customization:** Tailored for specific needs.
 - **Data Integration:** Seamless integration from Excel, CSV.
 - **Visualizations:** Engaging charts and visuals for better data understanding.
-- **Performance Optimization:** Achieved a 5% increase in report efficiency.
 
 ## Getting Started
 1. Clone this repository.
